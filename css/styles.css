@@ -1,0 +1,28 @@
+
+.container{
+    background-color:white;
+    
+}
+
+#logo{
+    height: 150px;  
+    margin: 10px;
+    
+    
+ 
+}
+.jumbotron{
+    height: 300px;
+    background-color: rgb(126, 155, 155);
+}
+p {
+    font-family: 'Italiana', serif;
+}
+#carousel-imgs{
+    padding: 100px;
+    align-content: center;    
+}
+
+h5 {
+    text-align: center;
+}
